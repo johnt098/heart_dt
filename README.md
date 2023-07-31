@@ -1,2 +1,2 @@
-# proj
-repo for my personal projects.
+# Projects
+Included are all my personal projects that I have done. 
